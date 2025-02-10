@@ -198,7 +198,6 @@ Use **Postman** or **Thunder Client** to test API requests.
 ---
 
 ## 🎯 Author
-**Your Name**  
 GitHub: [Loiszillions](https://github.com/Loiszillions)
 
 ---
